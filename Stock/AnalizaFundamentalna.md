@@ -196,7 +196,7 @@ Jeśli materiał nie pozwala ocenić jakości decyzji zarządu w pełni, napisz 
 
 # 8. Insider trading jako sygnał wspierający lub osłabiający
 
-Przeanalizuj dane z `Form 4`, ale wyłącznie jako warstwę pomocniczą wobec analizy fundamentalnej.
+Przeanalizuj dane z `Form 4`, ale wyłącznie jako warstwę pomocniczą wobec analizy fundamentalnej, zawsze w kontakście aktualnej daty, transakcje starsze niż 2 miesiące mają dużo mniejsze znaczenie niż nowsze, starsze niż 6 miesięcy nie mają już znaczenia.
 
 ## Zasady interpretacji insider tradingu
 
